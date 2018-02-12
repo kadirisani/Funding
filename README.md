@@ -14,3 +14,8 @@ An Integration test implementation example
 - In the sample test, overridden the default webdriver with chrome driver.
 - The Fluentlenium API is available in FluentAdapter.class
 - To run the test from command prompt, use this command: mvnw test
+
+## References
+ - [Basic info on how to use chrome driver](http://teotti.com/fluentlenium-with-google-chrome/)
+ - [Spring initializr](https://start.spring.io/)
+ - [Fluentlenium Site](http://fluentlenium.org/)
